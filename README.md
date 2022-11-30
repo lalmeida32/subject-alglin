@@ -6,3 +6,5 @@
 - Baixe os arquivos .dat e coloque dentro da pasta subject-alglin
 - **Atenção**: Baixe o movies.dat fornecido no Telegram
 - Configure seu editor para usar o python do venv local
+
+## Alternativamente, baixe as dependencias com pip e use o colab normalmente
