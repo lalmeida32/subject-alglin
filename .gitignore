@@ -1,2 +1,3 @@
 *.dat
 /.venv
+.ipynb_checkpoints/
